@@ -99,7 +99,6 @@ Here are some steps to test the plugin locally:
   cd semantic-release-ms-teams
   npm install
   ```
-
 - create a personal access token in github, then `export GH_TOKEN=...`
 - run `semantic-release` locally safely:
 
